@@ -1,0 +1,19 @@
+
+h3{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.table{
+  margin-top: 50px;
+}
+.btn{
+  size: m;
+}
+@media only screen and (min-width: 998px) {
+  .navbar-nav{
+    margin-left: 50px;
+  }
+  .navbar-item{
+    padding-left: 20px;
+  }
+}
